@@ -35,7 +35,7 @@
 
     $ComputerName = "v1233211" -Full $true
 .NOTES
-	Author: Travis M Knight; tmknight; Travis.Knight@macys.com
+	Author: Travis M Knight; tmknight
 	Date: 2017-05-24: tmknight: Inception
 	Date: 2017-09-27: tmknight: Code cleanup
 #>
